@@ -1,0 +1,5 @@
+region = "us-east-1"
+lambda_execution_role_name = "lambda_empty_s3_delete_execution_role"
+devolumizer_function_name = "devolumizer"
+snapshot_function_name = "snapshot"
+s3_function_name = "Empty_s3_delete"
